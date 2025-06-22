@@ -3,6 +3,7 @@
 ## Project Overview
 
 This repository documents the complete journey of building, testing, and deploying a machine learning-based movie recommender system. The project began as a Jupyter notebook with ML code and evolved into a full-stack web application, with a Flask backend and a modern JavaScript frontend, both deployed on professional cloud platforms.
+Check out the site here - https://h21-movie-site.vercel.app/
 
 ---
 
