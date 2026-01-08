@@ -1,4 +1,4 @@
-# 🎬 Movie Recommender System: From Local ML to Full-Stack Deployment
+# Movie Recommender System: From Local ML to Full-Stack Deployment
 
 ## Project Overview
 
